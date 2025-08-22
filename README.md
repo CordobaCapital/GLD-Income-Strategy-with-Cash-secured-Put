@@ -43,11 +43,6 @@ It uses historical GLD/SPY data (via IBKR or Yahoo Finance) and a Black–Schole
 
 ---
 
-## 📂 Repository Structure
-├── CodeImplementation.ipynb
-├── README.md 
----
-
 ## 🛠 Requirements
 Install dependencies:
 ```bash
