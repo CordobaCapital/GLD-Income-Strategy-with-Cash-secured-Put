@@ -48,3 +48,6 @@ Install dependencies:
 ```bash
 pip install pandas numpy matplotlib seaborn scipy ib_insync yfinance
 
+##  Contributors
+
+Zifan Li
