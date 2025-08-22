@@ -43,11 +43,14 @@ It uses historical GLD/SPY data (via IBKR or Yahoo Finance) and a Black–Schole
 
 ---
 
+##  Contributors
+
+Zifan Li
+
 ## 🛠 Requirements
 Install dependencies:
 ```bash
 pip install pandas numpy matplotlib seaborn scipy ib_insync yfinance
 
-##  Contributors
 
-Zifan Li
+
