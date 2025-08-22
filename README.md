@@ -44,9 +44,8 @@ It uses historical GLD/SPY data (via IBKR or Yahoo Finance) and a Black–Schole
 ---
 
 ## 📂 Repository Structure
-├── Code Implementation.ipynb # Jupyter notebook with full backtest
-├── README.md # Project documentation
-
+├── Code Implementation.ipynb
+├── README.md 
 ---
 
 ## 🛠 Requirements
